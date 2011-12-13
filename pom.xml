@@ -22,7 +22,7 @@
   <url>http://github.com/sakaiproject/3akai-ux</url>
   <scm>
     <connection>scm:git:git://github.com/zathomas/3akai-ux.git</connection>
-    <developerConnection>scm:git:git@github.com:zathomas/3akai-ux.git</developerConnection>
+    <developerConnection>scm:git:ssh://git@github.com/zathomas/3akai-ux.git</developerConnection>
     <url>http://github.com/zathomas/3akai-ux/</url>
   </scm>
   <issueManagement>
